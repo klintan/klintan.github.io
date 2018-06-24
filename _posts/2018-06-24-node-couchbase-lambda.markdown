@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Using and installing NodeJS Couchbase for AWS Lambda"
-date:   2017-12-07 17:49:50 -0800
+title:  Using and installing NodeJS Couchbase for AWS Lambda
+date:   2018-06-24 17:49:50 -0800
 categories: lambda aws couchbase
 ---
 
